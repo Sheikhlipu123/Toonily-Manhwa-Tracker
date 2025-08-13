@@ -101,13 +101,13 @@ The script automatically recognizes these URL patterns:
 \`\`\`
 https://toonily.com/serie/[manhwa-name]/
 \`\`\`
-Example: `https://toonily.com/serie/my/`
+Example: `https://toonily.com/eleceed/my/`
 
 ### Chapter Pages
 \`\`\`
 https://toonily.com/serie/[manhwa-name]/chapter-[number]/
 \`\`\`
-Example: `https://toonily.com/serie/my/chapter-1/`
+Example: `https://toonily.com/serie/eleceed/chapter-1/`
 
 ## Data Structure
 
