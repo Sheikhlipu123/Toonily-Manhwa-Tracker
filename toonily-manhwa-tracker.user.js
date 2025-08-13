@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Toonily Manhwa Tracker
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/Sheikhlipu123
 // @version      1.0
 // @description  Track manhwa reading progress on Toonily.com
 // @author       Sheikhlipu123
