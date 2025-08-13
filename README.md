@@ -101,7 +101,7 @@ The script automatically recognizes these URL patterns:
 \`\`\`
 https://toonily.com/serie/[manhwa-name]/
 \`\`\`
-Example: `https://toonily.com/eleceed/my/`
+Example: `https://toonily.com/serie/eleceed/`
 
 ### Chapter Pages
 \`\`\`
